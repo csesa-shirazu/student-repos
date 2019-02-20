@@ -7,3 +7,7 @@ https://github.com/alifarazz/ukernel
 https://github.com/alifarazz/September
 ### Other
 https://github.com/amirsojoodi/GPGPU-2018Fall
+### Java
+https://github.com/alimahdiyar/ictclogin
+### Android
+https://github.com/alimahdiyar/android
