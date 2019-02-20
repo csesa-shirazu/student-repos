@@ -10,4 +10,4 @@ https://github.com/amirsojoodi/GPGPU-2018Fall
 ### Java
 https://github.com/alimahdiyar/ictclogin
 ### Android
-https://github.com/alimahdiyar/android
+https://github.com/alimahdiyar/ictclogin-android
